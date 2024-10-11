@@ -8,7 +8,8 @@
 </head>
 
 <body>
-    <?= 'hello world' ?>
+    <?= 'hello world, people' ?>
+    <h1>Version Control</h1>
 </body>
 
 </html>
